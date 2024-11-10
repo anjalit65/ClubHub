@@ -97,7 +97,7 @@ Each method was evaluated for:
 
 ## **Contributors**
 
-- [Your Name](https://github.com/yourusername)
+- [Anjali Tripathi](https://github.com/anjalit65)
 
 ---
 
