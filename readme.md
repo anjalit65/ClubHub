@@ -16,7 +16,6 @@ This repository provides a framework for developing an image similarity search e
   - [Vision Transformer (CLIP)](#vision-transformer-clip)
   - [Hashing (Locality Sensitive Hashing)](#hashing-locality-sensitive-hashing)
   - [Autoencoder](#autoencoder)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Performance Comparison](#performance-comparison)
 - [Insights and Recommendations](#insights-and-recommendations)
@@ -57,20 +56,6 @@ The goal of this project is to implement an image similarity search solution, ex
 - **Best Use Case**: General similarity on simple datasets.
 - **Strengths**: Good generalization for simple images, though lower accuracy.
 
----
-
-## **Installation**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/google-lens-alternative.git
-   cd google-lens-alternative
-   ```
-
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ---
 
