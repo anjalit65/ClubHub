@@ -64,7 +64,7 @@ The goal of this project is to implement an image similarity search solution, ex
 1. Place images in a folder named `test_images` within the root directory.
 2. Run the main script to perform similarity searches across all methods:
    ```bash
-   python main.py
+   python lens.py
    ```
 3. Results will display the top 5 matches for each method based on a specified query image.
 
